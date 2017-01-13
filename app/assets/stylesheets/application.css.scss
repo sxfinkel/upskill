@@ -38,6 +38,16 @@ h1, h2, h3 {
   border: none;
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+.navbar-default .navbar-toggle {
+  border: 2px solid white;
+  &:hover, &:focus {
+    background-color: #185a9d;
+  }
+}
+
 .navbar-brand {
   font-family: 'Open Sans', sans-serif;
   font-weight: 800;
