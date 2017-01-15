@@ -70,3 +70,8 @@ h1, h2, h3 {
   padding-top: 50px;
   padding-bottom: 100px;
 }
+
+//Hides the flash notices displayed by devise when loggin in/out etc.
+.alert-notice {
+  display: none;
+}
