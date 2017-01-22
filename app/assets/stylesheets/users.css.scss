@@ -12,10 +12,19 @@
 
 .well.profile-description {
   background-color: #185B9D;
-
 }
 
 .well.profile-contact-info {
   background-color: #43CDA2;
+}
 
+.job-title-icon {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 2px solid #2e6da4;
+  border-radius: 4px;
+  background-color: #337ab7;
+  color: #ffffff;
+  text-align: center;
 }
